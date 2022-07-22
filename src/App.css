@@ -126,6 +126,10 @@ footer {
   margin-left: auto
 }
 
+.context {
+  margin-top: 50px;
+}
+
 @media (min-width:576px) {
   .container {
     max-width: 540px

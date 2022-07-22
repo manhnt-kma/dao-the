@@ -8,6 +8,7 @@ import img2 from './images/02.png';
 import zaloIcon from './images/zalo-icon.png';
 import messIcon from './images/messenger-icon.png';
 import phone from './images/phone.png'
+// eslint-disable-next-line
 import contactUs from './images/contactus-icon.png'
 
 const collection = [
@@ -30,10 +31,12 @@ function App() {
 			</header>
 			<div className='content container'>
 				<div >
-					<span>Xin chào!</span>
+					<h2>Xin chào!</h2>
 					<p>Bên Mình Chuyên Cung Cấp Các Dịch Vụ</p>
 					<p>Rút Tiền/Đáo Hạn Thẻ Tín Dụng</p>
 					<a class="hero-button" href="tel:0888666665">Gọi ngay</a>
+				</div>
+				<div className='context'>
 					<h2 class="text-center">Rút Tiền Thẻ Tín Dụng Tại Nhà</h2>
 					<p class="text-center">Tư Vấn Và Phục Vụ 24/7</p>
 					<h2 class="text-center">Đáo Hạn Thẻ Tín Dụng</h2>
