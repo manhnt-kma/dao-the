@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "798d8a672606dd20dbd6",
-    "url": "/dao-the/static/css/main.cbf045b7.chunk.css"
+    "revision": "e767dd21f060c74a7b28",
+    "url": "/dao-the/static/css/main.844154c4.chunk.css"
   },
   {
-    "revision": "798d8a672606dd20dbd6",
-    "url": "/dao-the/static/js/main.798d8a67.chunk.js"
+    "revision": "e767dd21f060c74a7b28",
+    "url": "/dao-the/static/js/main.e767dd21.chunk.js"
   },
   {
     "revision": "8c98aab82769540efb62",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/dao-the/static/media/contactus-icon.cb437106.png"
   },
   {
-    "revision": "f6bf36620a52387001e179f067933664",
+    "revision": "90cf67a6114329e3b29f920c25a7dbe0",
     "url": "/dao-the/index.html"
   }
 ];
